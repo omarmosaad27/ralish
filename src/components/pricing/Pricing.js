@@ -51,7 +51,7 @@ const Pricing = () => {
                             </div>
                         
                     </Link>
-                    <Link to="/sign-up" className="pricing-card">
+                    <Link to="/SignUp" className="pricing-card">
                         
                             <div className="pricing-card-info">
                                 <div className="pricing-icon">
