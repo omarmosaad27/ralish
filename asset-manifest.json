@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ralish/static/css/main.9fa66417.chunk.css",
-    "main.js": "/ralish/static/js/main.487bc141.chunk.js",
-    "main.js.map": "/ralish/static/js/main.487bc141.chunk.js.map",
+    "main.js": "/ralish/static/js/main.a430d057.chunk.js",
+    "main.js.map": "/ralish/static/js/main.a430d057.chunk.js.map",
     "runtime-main.js": "/ralish/static/js/runtime-main.875be9b8.js",
     "runtime-main.js.map": "/ralish/static/js/runtime-main.875be9b8.js.map",
     "static/js/2.dd7b6392.chunk.js": "/ralish/static/js/2.dd7b6392.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.875be9b8.js",
     "static/js/2.dd7b6392.chunk.js",
     "static/css/main.9fa66417.chunk.css",
-    "static/js/main.487bc141.chunk.js"
+    "static/js/main.a430d057.chunk.js"
   ]
 }
