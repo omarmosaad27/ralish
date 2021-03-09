@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ralish/static/css/main.9fa66417.chunk.css",
+    "main.js": "/ralish/static/js/main.487bc141.chunk.js",
+    "main.js.map": "/ralish/static/js/main.487bc141.chunk.js.map",
+    "runtime-main.js": "/ralish/static/js/runtime-main.875be9b8.js",
+    "runtime-main.js.map": "/ralish/static/js/runtime-main.875be9b8.js.map",
+    "static/js/2.dd7b6392.chunk.js": "/ralish/static/js/2.dd7b6392.chunk.js",
+    "static/js/2.dd7b6392.chunk.js.map": "/ralish/static/js/2.dd7b6392.chunk.js.map",
+    "static/js/3.f80cb603.chunk.js": "/ralish/static/js/3.f80cb603.chunk.js",
+    "static/js/3.f80cb603.chunk.js.map": "/ralish/static/js/3.f80cb603.chunk.js.map",
+    "index.html": "/ralish/index.html",
+    "static/css/main.9fa66417.chunk.css.map": "/ralish/static/css/main.9fa66417.chunk.css.map",
+    "static/js/2.dd7b6392.chunk.js.LICENSE.txt": "/ralish/static/js/2.dd7b6392.chunk.js.LICENSE.txt",
+    "static/media/svg-1.48d08d0e.svg": "/ralish/static/media/svg-1.48d08d0e.svg",
+    "static/media/svg-5.c614f92c.svg": "/ralish/static/media/svg-5.c614f92c.svg",
+    "static/media/svg-7.f9856b25.svg": "/ralish/static/media/svg-7.f9856b25.svg",
+    "static/media/svg-8.a5a044be.svg": "/ralish/static/media/svg-8.a5a044be.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875be9b8.js",
+    "static/js/2.dd7b6392.chunk.js",
+    "static/css/main.9fa66417.chunk.css",
+    "static/js/main.487bc141.chunk.js"
+  ]
+}
