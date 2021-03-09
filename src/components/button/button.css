@@ -1,0 +1,119 @@
+:root{
+    --primary:#fff;
+
+}
+
+.btn{
+    padding: 8px 20px ;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+    white-space: nowrap;
+    border: none;
+    transition:all 0.3s ease-in-out ;
+
+}
+.btn--primary{
+    background-color: var(--primary);
+    color: #242424;
+    border:1px solid var(--primary);
+}
+.btn--outline{
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border:1px solid var(--primary);
+    transition:all 0.3s ease-in-out ;
+}
+.btn--basic{
+    background: #192a56;
+    color: white;
+    text-transform: capitalize;
+
+}
+
+.btn--basic:hover{
+    border: 1px solid #192a56;
+    background: transparent;
+    color: #192a56;
+}
+.btn--outline:hover{
+    background-color: white;
+    color: #242424;
+}
+.btn--medium{
+    font-size: 18px;
+    padding: 8px 20px;
+}
+.btn--large{
+    padding: 12px 26px;
+    font-size: 20px;
+
+}
+.btn-mobile{
+    text-align: center;
+    border-radius: 4px;
+    width: 80%;
+    text-decoration: none;
+    font-size: 24px;
+    background-color: transparent;
+    color: #fff;
+    padding: 14px 20px;
+    border: 1px  solid #fff; 
+    transition:all 0.3s ease-in-out ;
+}
+.btn--wide{
+    padding: 12px 64px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.btn--large:hover,.btn--medium:hover,.btn-mobile:hover{
+    transition:all 0.3s ease-in-out ;
+    background: #fff;
+    color: #242424;
+}
+.btn--wider{
+    padding: 12px 64px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.btn--wide:hover{
+    color: #fff;
+    background: #f00946;
+    transition:all 0.3s ease-in-out ;
+}
+.blue{
+    background: #487eb0;
+    border: none;
+    color: white;
+    
+}
+.red{
+    background: #f00946;
+    border: none;
+    color: white;
+
+}
+.green{
+    background: #25ce4a;
+    border: none;
+    color: white;
+
+}
+.green:hover{
+    background: #242424;
+
+}
+.primary{
+    background: #242424;
+    border: none;
+    color: white;
+
+}
+.primary:hover{
+    background: #fff;
+    border: none;
+    color: #242424;
+
+}
